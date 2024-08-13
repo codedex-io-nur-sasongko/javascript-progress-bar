@@ -1,0 +1,16 @@
+/* width: "100%",
+backgroundColor: "#e0e0e0",
+borderRadius: "4px" */
+
+.progress-bar {
+  width: 100%;
+  background-color: #e0e0e0;
+  border-radius: 4px;
+}
+
+.progress-bar-fill {
+  height: 24px;
+  background-color: #007bff;
+  border-radius: 4px;
+  transition: width 0.5s;
+}
